@@ -96,6 +96,9 @@ Data is often visualized using various dashboard tools to provide live optics on
 Visualization is just the end of one type of pipeline. Often, data is being used to provide decision-making for other parts of a system, perhaps for an e-commerce recommendation system, or maybe the data is being used to build a machine learning model, perhaps to do some classification or prediction work.
 
 
+## **Chapter 2. Storage and Databases**
+
+
 
 
    
